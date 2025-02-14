@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"2243763198","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"1NXBR32E15Z432827","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739255830078@qa-copart-test.com"}

@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"4968619890","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"1J8HR58N57C528706","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739429005719@qa-copart-test.com"}

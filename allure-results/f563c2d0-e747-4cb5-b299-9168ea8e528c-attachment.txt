@@ -1,0 +1,1 @@
+{"status":"success","message":"Seller details are saved successfully.","data":{},"correlationId":"52518a5e-2b4d-45a9-8b65-97039ed2a8e4"}

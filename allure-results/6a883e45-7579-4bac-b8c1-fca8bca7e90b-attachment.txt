@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"5445123676","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"1FDXF46F23EA81120","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739255745926@qa-copart-test.com"}

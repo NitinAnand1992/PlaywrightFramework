@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"0627570740","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"1N4AL11D32C191942","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"C","email":"testpwautomation1739444526458@qa-copart-test.com"}

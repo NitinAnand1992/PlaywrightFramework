@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"2305928271","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"4T1BE46K57U109711","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739268459936@qa-copart-test.com"}

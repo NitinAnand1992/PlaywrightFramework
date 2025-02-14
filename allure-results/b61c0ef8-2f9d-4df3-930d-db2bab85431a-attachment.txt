@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"5478739937","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"2HGFB2F50CH592424","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739445331580@qa-copart-test.com"}

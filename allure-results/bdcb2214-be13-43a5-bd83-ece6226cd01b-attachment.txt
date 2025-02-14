@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"1334750978","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"JHMGE88299S043921","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"N","email":"testpwautomation1739255051938@qa-copart-test.com"}

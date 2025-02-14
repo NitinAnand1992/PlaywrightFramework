@@ -1,0 +1,1 @@
+{"status":"success","message":"Request was successful.","data":{"leadId":13725385,"offerAmount":375,"isJunk":true,"offerExpiryTime":"2025-03-15T11:02:08.889Z"},"correlationId":"5f75381a-1bd5-4355-b60b-06c49ed50cfe"}

@@ -1,0 +1,25 @@
+{
+  "US": {
+    "QA": {
+      "UI": {
+        "DB": "https://c-directbuy-qa5.cashforcars.com/login",
+        "PP": "https://c-partner-qa5.cashforcars.com/login",
+        "Instaquote": "https://c-services-qa5.copart.com/instaquote-ws/instaquote/index.html",
+        "Partnerlink": "https://c-services-qa5.copart.com/instaquote-ws/instaquote/index.html?pub_id=50001202"
+      },
+      "API": {
+        "partnerapi": "https://c-partner-qa5.cashforcars.com/api/v1/publishers/token",
+        "instantoffer": "https://c-services-qa5.copart.com/instaquote-ws/publishers/v3/instant-offer",
+        "APIKeyGenerator": "https://c-services-qa5.copart.com/c4ccoreservices-ws/api/v1/publishers/create-apikey",
+        "randomvin": "https://randomvin.com/getvin.php?type=fake"
+      },
+      "Database":
+      {
+        "URL": "jdbc:mariadb://c-mas-qa5db.copart.com:3222/cashforcars",
+        "username": "cfc_app_usr",
+        "password": "q7cZv#plYp7^LB"
+      }
+
+    }
+  }
+}

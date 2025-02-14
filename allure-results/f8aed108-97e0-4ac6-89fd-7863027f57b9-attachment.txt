@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"4321396718","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"3GNAL3EK0ES668069","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"C","email":"testpwautomation1739271212995@qa-copart-test.com"}

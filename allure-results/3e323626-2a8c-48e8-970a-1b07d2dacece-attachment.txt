@@ -1,0 +1,1 @@
+{"zip":"45424","damage":"AO","odometerReading":9000,"color":"Red","keys":true,"airbagsDeployed":false,"phoneNumber":"8418594385","fireOrFlood":"None","engineOrTransmissionOrCatalyticConverterMissing":false,"vin":"JN1AZ34D15M650659","runCondition":"S","tiresCondition":"no flats on trailer","titleGroup":"C","email":"testpwautomation1739446818104@qa-copart-test.com"}

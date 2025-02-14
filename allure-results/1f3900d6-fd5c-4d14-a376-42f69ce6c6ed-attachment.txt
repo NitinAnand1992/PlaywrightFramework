@@ -1,0 +1,1 @@
+{"vin":"1N4AL11D32C191942","pickupLocation":{"zip":"45424","country":"USA","city":"Huber Heights","pickUpType":"RESD","addressLine1":"5425 Fishburg Rd","addressLine2":"test","addressLine3":"","state":"OH"},"sellerInfo":{"loginEmail":"testpwautomation1739444526458@qa-copart-test.com","firstName":"Sophia","lastName":"Davis","phoneNumber":"0627570740"}}
