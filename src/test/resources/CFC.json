@@ -11,6 +11,7 @@
         "partnerapi": "https://c-partner-qa5.cashforcars.com/api/v1/publishers/token",
         "instantoffer": "https://c-services-qa5.copart.com/instaquote-ws/publishers/v3/instant-offer",
         "APIKeyGenerator": "https://c-services-qa5.copart.com/c4ccoreservices-ws/api/v1/publishers/create-apikey",
+        "assignment": "https://c-services-qa5.copart.com/instaquote-ws/publishers/v3/assignment",
         "randomvin": "https://randomvin.com/getvin.php?type=fake"
       },
       "Database":
